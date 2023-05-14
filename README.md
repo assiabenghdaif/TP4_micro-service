@@ -32,6 +32,7 @@ https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/f043dead-2fd
 
 
   - test postman using OpenAPI definition
+ 
 
 - Exposer une API Restful en utilisant Spring Data Rest en exploitant des projections
 
