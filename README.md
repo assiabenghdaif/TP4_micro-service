@@ -1,4 +1,8 @@
 # TP4_micro-service
+## Project architect
+![Screenshot 2023-05-14 160829](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/33464db1-1ee9-4b4d-a1f5-0a2d9464e10d)
+
+
 - Tester la couche DAO
 
 ![test dto](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/ae603809-815b-4f69-bf88-5abe1d48502a)
@@ -33,6 +37,8 @@ https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/f043dead-2fd
 
   - test postman using OpenAPI definition
  
+https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/2d870239-07e5-4bb8-a8dd-293918bb367b
+
 
 - Exposer une API Restful en utilisant Spring Data Rest en exploitant des projections
 
