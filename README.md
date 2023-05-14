@@ -50,4 +50,20 @@ https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/afbc6fbe-6c6
 ![Spring Data Rest search](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/1bf20c29-7ec6-4d87-bc2d-01a99246ee59)
 ![Spring Data Rest projection](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/cc86f533-7c51-49d6-a868-a0e34876a34f)
 
+##  GraphQl:
+- get all accounts:
+
+![image](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/9d50e00e-5cb1-4e35-b35c-6f4ff08eae37)
+
+- get account by id:
+![image](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/b1ccdf10-9a66-42fc-899e-d76626899b6b)
+
+
+- add an account :
+![image](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/9c22c64b-1609-4991-ab36-14bc21ba5896)
+- update an account:
+![image](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/bac55972-b0e6-400e-bb09-8a104929fdb9)
+
+- delete an account:
+![image](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/ae303dae-305e-49fb-9ff8-4899cc3cdfd2)
 
