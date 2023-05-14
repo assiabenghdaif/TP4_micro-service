@@ -6,45 +6,48 @@
 
 - Tester la couche DAO
 
-![test dto](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/ae603809-815b-4f69-bf88-5abe1d48502a)
+![test dto](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/86ca6808-9e25-48b6-8cff-5bbe06d130f6)
 
 
 - Tester le web micro-service en utilisant un client REST comme Postman
   - show all accounts:  
 
-![all accounts](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/0adf4804-f41d-43f6-bc2d-0bd5fe03812a)
+![all accounts](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/c0ebcc15-ac19-4c3f-9c9f-aa5e5084af94)
+
   - get account by ID:
- ![get one account](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/dd400798-5e66-42e0-bd1d-3d5cfc066d91)
+ 
+![get one account](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/f684c5bc-3354-4606-b5db-eb7a1b0e782a)
 
 
   - add an account:
- ![save account](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/ef6c035e-70f1-4e1e-8496-e69adb0db9c6)
+  ![save account](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/505a4a6b-6bb0-4f10-9d05-30db82c7ea69)
 
-  ![get one account after save](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/fe56f03c-74e6-4d69-b30f-54a66c8d3944)
+  ![get one account after save](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/425e9afd-88d0-44c9-a158-7d8d5c32bbd8)
+
 
   - update an account:
- ![update account](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/c694f97b-9bac-4299-8c8c-caf213c596ee)
-    
- ![get one account after update](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/5fae7a29-9761-4d00-b423-7fe65bf220d3)
+  ![update account](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/1fd58388-ccf1-44f2-870d-07ce1ee3f85b)
+
+ ![get one account after update](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/aa16b9c2-b6bd-4163-a6aa-af466c7fc7e1)
+
 
   - delete an account:
+  ![delete account](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/58598264-52cb-491e-bbe4-2791ec8265fc)
 
-![delete account](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/def7b824-2782-4ff5-a6ac-96a0c9ac9d65)
+
 - Générer et tester le documentation Swagger de des API Rest du Web service
 
-
-https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/f043dead-2fd8-49ce-bc51-42b2c9081b09
-
+https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/9ac3642b-095a-42b6-ac02-dd456bf0f2bc
 
   - test postman using OpenAPI definition
- 
-https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/2d870239-07e5-4bb8-a8dd-293918bb367b
+  
+
+https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/afbc6fbe-6c66-4acd-bd2f-3aed1f62a696
 
 
 - Exposer une API Restful en utilisant Spring Data Rest en exploitant des projections
+![Spring Data Rest all](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/4d55384a-3596-48f7-854e-391a59a44d58)
+![Spring Data Rest search](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/1bf20c29-7ec6-4d87-bc2d-01a99246ee59)
+![Spring Data Rest projection](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/cc86f533-7c51-49d6-a868-a0e34876a34f)
 
-![Spring Data Rest all](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/7f5cdc71-70c0-4314-831f-11dc8d1a5db6)
 
-![Spring Data Rest search](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/96f77d40-2e57-486a-a084-e4a9a0f607a5)
-
-![Spring Data Rest projection](https://github.com/assiabenghdaif/TP4_micro-service/assets/99361390/374b3b9c-a684-4c58-8db0-7c81501f3a3a)
